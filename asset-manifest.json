@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/trishy-sparkle/static/css/main.4bff95fd.css",
-    "main.js": "/trishy-sparkle/static/js/main.84edca9c.js",
+    "main.css": "/trishy-sparkle/static/css/main.ce30c69a.css",
+    "main.js": "/trishy-sparkle/static/js/main.2d02cec2.js",
     "static/js/787.169a824f.chunk.js": "/trishy-sparkle/static/js/787.169a824f.chunk.js",
+    "static/media/IMG_8363.png": "/trishy-sparkle/static/media/IMG_8363.0cab48776329d7d81075.png",
+    "static/media/IMG_8143.png": "/trishy-sparkle/static/media/IMG_8143.71e961627f22032b92d8.png",
+    "static/media/IMG_8415_1.png": "/trishy-sparkle/static/media/IMG_8415_1.c64912dc900db80b9802.png",
+    "static/media/FullSizeRender.png": "/trishy-sparkle/static/media/FullSizeRender.a32efa13a95bdc745906.png",
+    "static/media/IMG_9321.png": "/trishy-sparkle/static/media/IMG_9321.ddd6c493450b9760dec6.png",
+    "static/media/IMG_8123.png": "/trishy-sparkle/static/media/IMG_8123.5976e9e04bf2da8464dd.png",
     "static/media/IMG_6607.JPG": "/trishy-sparkle/static/media/IMG_6607.5375023a10ca6eca88ae.JPG",
     "static/media/IMG_6213.JPG": "/trishy-sparkle/static/media/IMG_6213.5289511ec27c8b0e77fc.JPG",
+    "static/media/IMG_4685.png": "/trishy-sparkle/static/media/IMG_4685.28fa743892585b3772cc.png",
+    "static/media/IMG_3475.png": "/trishy-sparkle/static/media/IMG_3475.c1b13a443a5d43d93ea3.png",
+    "static/media/IMG_3690.png": "/trishy-sparkle/static/media/IMG_3690.059fdfe26d1dfa0cfdef.png",
     "index.html": "/trishy-sparkle/index.html",
-    "main.4bff95fd.css.map": "/trishy-sparkle/static/css/main.4bff95fd.css.map",
-    "main.84edca9c.js.map": "/trishy-sparkle/static/js/main.84edca9c.js.map",
+    "main.ce30c69a.css.map": "/trishy-sparkle/static/css/main.ce30c69a.css.map",
+    "main.2d02cec2.js.map": "/trishy-sparkle/static/js/main.2d02cec2.js.map",
     "787.169a824f.chunk.js.map": "/trishy-sparkle/static/js/787.169a824f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bff95fd.css",
-    "static/js/main.84edca9c.js"
+    "static/css/main.ce30c69a.css",
+    "static/js/main.2d02cec2.js"
   ]
 }
