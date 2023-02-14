@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/trishy-sparkle/static/css/main.073c9b0a.css",
-    "main.js": "/trishy-sparkle/static/js/main.c30427f4.js",
+    "main.css": "/trishy-sparkle/static/css/main.4bff95fd.css",
+    "main.js": "/trishy-sparkle/static/js/main.84edca9c.js",
     "static/js/787.169a824f.chunk.js": "/trishy-sparkle/static/js/787.169a824f.chunk.js",
-    "static/media/logo.svg": "/trishy-sparkle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/IMG_6607.JPG": "/trishy-sparkle/static/media/IMG_6607.5375023a10ca6eca88ae.JPG",
+    "static/media/IMG_6213.JPG": "/trishy-sparkle/static/media/IMG_6213.5289511ec27c8b0e77fc.JPG",
     "index.html": "/trishy-sparkle/index.html",
-    "main.073c9b0a.css.map": "/trishy-sparkle/static/css/main.073c9b0a.css.map",
-    "main.c30427f4.js.map": "/trishy-sparkle/static/js/main.c30427f4.js.map",
+    "main.4bff95fd.css.map": "/trishy-sparkle/static/css/main.4bff95fd.css.map",
+    "main.84edca9c.js.map": "/trishy-sparkle/static/js/main.84edca9c.js.map",
     "787.169a824f.chunk.js.map": "/trishy-sparkle/static/js/787.169a824f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c30427f4.js"
+    "static/css/main.4bff95fd.css",
+    "static/js/main.84edca9c.js"
   ]
 }
